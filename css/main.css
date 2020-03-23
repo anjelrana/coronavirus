@@ -1,0 +1,27 @@
+.site-header {
+    background-color: rgba(243, 144, 16, 0.904);
+    color: chocolate;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    margin: 0;
+
+}
+.profile-pic {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+    box-shadow: rgb(88, 58, 1) 2px 5px 5px;
+}
+.site-header-content {
+    margin: 10px;
+}
+.follow {
+    color: rgb(44, 13, 1);
+}
